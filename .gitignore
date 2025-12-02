@@ -1,0 +1,13 @@
+data/
+outputs/
+notebooks/
+models/*.pth
+models/*.pt
+__pycache__/
+*.zip
+*.tar
+*.jpg
+*.jpeg
+*.png
+*.npy
+*.npz
