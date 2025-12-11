@@ -1,7 +1,7 @@
 
 ---
 
-# 🚀 **Image Caption Generator using Deep Learning**
+#      🚀 **Image Caption Generator using Deep Learning**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deep%20Learning-ResNet50-blue?style=for-the-badge"/>
