@@ -203,7 +203,7 @@ python ui.py
 
 # 👤 **Author**
 
-### **Sumit Kolgire (Shadow)**
+### **Sumit Kolgire**
 
 AI/ML Engineer | Deep Learning | NLP | Computer Vision
 🔗 LinkedIn: [https://www.linkedin.com/in/sumit-kolgire](https://www.linkedin.com/in/sumit-kolgire)
