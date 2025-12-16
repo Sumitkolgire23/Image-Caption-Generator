@@ -8,6 +8,7 @@ import torchvision.transforms as transforms
 
 
 def load_models(device=DEVICE):
+    # Load vocabulary
     vocab = load_pickle(VOCAB_PATH)
     encoder = EncoderCNN(EMBED_SIZE)
     decoder = DecoderRNN(EMBED_SIZE, HIDDEN_SIZE, len(vocab))
